@@ -1,0 +1,2 @@
+The program displays all the words in the dictionary that can be formed as combinations of all the letters entered by user.
+AVL tree is used to store words in the dictionary.
